@@ -1,0 +1,13 @@
+.outline1 {
+    border: 3px solid blue;
+    outline: 5px dotted red;
+    margin: 50px 80px;
+    padding: 10px;
+    text-align: justify;
+    outline-offset: 15px;
+    
+}
+.table {
+    margin: 50px;
+
+}
