@@ -1,0 +1,66 @@
+<style>
+        body {
+                margin: 50px 50px 200px 50px;
+        }
+        .h1 {
+            background-color: burlywood;
+            color: green;
+            text-align: center;
+        
+        }
+        
+        .p1 {
+            color: rgb(255, 255, 0);
+            font-size: 20px;
+            height: 150px;
+            width: 1300px;
+            background-color: gray;
+            padding: 30px 30px;
+            margin: 50px;
+            
+        }
+        
+        .h2 { 
+            color: orange;
+            margin-bottom: 50px;
+
+            
+            }
+
+        .p2 {
+            border: 5px solid orchid;
+            outline: green dashed 3px;
+            margin: auto;
+            padding: 10px 50px;
+            text-align: center;
+
+
+        }
+
+        .p3 {
+            
+            height: 100px;
+            width: 100px;
+            background-color: burlywood;
+            border-radius: 50%;
+            margin: 100px;
+
+        }
+        .p4 {
+            
+            
+            height: 200px;
+            width: 500px;
+            background-color: brown;
+            border-top-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+            
+
+        }
+        .p5 {
+            margin-top: 50px;
+            height: fit-content;
+            width: fit-content;
+            background-color: aqua;
+        }
+        </style>
